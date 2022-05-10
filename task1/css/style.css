@@ -1,0 +1,55 @@
+.navbar {
+  width: 100%;
+  height: 8vh;
+}
+
+.navbar .nav-color {
+  background-color: #343a40;
+}
+
+.content {
+  width: 100%;
+  height: 43vh;
+  background-color: #e9ecef;
+  padding: 30px 150px;
+}
+
+.content .content-size {
+  font-size: 80px;
+}
+
+.content .button-properties {
+  margin-top: 20px;
+  width: 150px;
+  height: 6vh;
+}
+
+.content .button-properties i {
+  font-size: 10px;
+}
+
+.boxes {
+  width: 100%;
+  height: 40vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.boxes i {
+  font-size: 10px;
+}
+
+* {
+  margin: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */

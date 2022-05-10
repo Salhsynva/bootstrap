@@ -1,0 +1,24 @@
+$content-box-color:#e9ecef;
+
+.content {
+    width: 100%;
+    height: 43vh;
+    background-color: $content-box-color;
+    padding: 30px 150px;
+
+    .content-size {
+        font-size: 80px;
+    }
+
+    .button-properties{
+        margin-top: 20px;
+        width: 150px;
+        height: 6vh;
+
+        i{
+            font-size: 10px;
+        }
+    }
+
+
+}
